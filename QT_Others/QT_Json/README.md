@@ -6,7 +6,7 @@
 
 ```c++
 1. json概述
-2. Json数组和Json对象
+2. Json数组和Json对象 // 对象是无序的 数组是有序的
 3. 使用Json过程中的注意事项
 4. QJsonValue类的使用
 5. QJsonObject类的使用
@@ -29,5 +29,9 @@
     "IsAlive":false,
     "Comment":"yyds"
 }
+```
+```c++
+// 使用
+#include <json/json.h> //jsoncpp库
 ```
 
