@@ -32,6 +32,7 @@
 ```
 ```c++
 // 使用
-#include <json/json.h> //jsoncpp库
+#include <nlohmann/json.hpp>
+using json = nlohmann::json;
 ```
 
