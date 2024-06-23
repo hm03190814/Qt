@@ -30,9 +30,4 @@
     "Comment":"yyds"
 }
 ```
-```c++
-// 使用
-#include <nlohmann/json.hpp>
-using json = nlohmann::json;
-```
 
