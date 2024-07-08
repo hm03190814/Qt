@@ -1,4 +1,4 @@
-# Qt
+<h1 align="center">Qt</h1>
 
 - [x] Video: https://edu.subingwen.cn/
 
